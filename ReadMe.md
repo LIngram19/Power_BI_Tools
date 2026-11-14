@@ -1,0 +1,1 @@
+The Power BI tools are Python scripts and meant to be used on PBIP files since those have nested JSON files and TMDLs that are meant for programmatic changes
